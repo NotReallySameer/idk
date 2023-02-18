@@ -1,1 +1,1 @@
-worker: python3 sammy.py
+worker: python3 sameer.py
